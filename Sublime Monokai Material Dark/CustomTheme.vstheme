@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Sublime Monokai Material (Dark) (1)" GUID="{777dba27-a128-4911-99e2-ddcb3fd69ee1}" BaseGUID="{bacdda6b-0187-4262-8a05-2f083f0ff473}">
+  <Theme Name="Sublime Monokai Material (Dark)" GUID="{777dba27-a128-4911-99e2-ddcb3fd69ee1}" BaseGUID="{bacdda6b-0187-4262-8a05-2f083f0ff473}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF272822" />
